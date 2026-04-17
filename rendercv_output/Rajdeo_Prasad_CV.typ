@@ -108,6 +108,8 @@ Software Developer with 3+ years of experience designing and building scalable b
 
 #strong[Languages:] JavaScript (ES6+), TypeScript, Python
 
+#strong[Frontend:] React.js, Next.js
+
 #strong[Backend:] Node.js, Express.js, REST APIs
 
 #strong[Databases:] MongoDB, PostgreSQL, MySQL, Redis

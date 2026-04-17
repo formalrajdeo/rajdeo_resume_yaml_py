@@ -24,6 +24,9 @@ cv:
       - label: Languages
         details: JavaScript (ES6+), TypeScript, Python
 
+      - label: Frontend
+        details: React.js, Next.js
+
       - label: Backend
         details: Node.js, Express.js, REST APIs
 
