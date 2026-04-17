@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# RenderCV outputs
+output/
+*.pdf
+*.tex
+*.html
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# uv / pip cache
+uv.lock
+pip-wheel-metadata/
+*.egg-info/
+
+# Jupyter (if ever used)
+.ipynb_checkpoints/
+
+# Misc
+*.tmp
+*.swp
