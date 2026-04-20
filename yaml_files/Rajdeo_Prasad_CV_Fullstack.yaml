@@ -1,0 +1,109 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+
+cv:
+  name: Rajdeo Prasad
+  headline: Fullstack Software Developer | MERN | MEAN | AWS | Microservices | System Design
+
+  location: Mumbai, India
+  email: formal.rajdeo@gmail.com
+  phone: "+919987847479"
+  website: https://rajdeo.netlify.app/
+
+  social_networks:
+    - network: LinkedIn
+      username: rajdeo-prasad-a27b49203
+    - network: GitHub
+      username: formalrajdeo
+
+  sections:
+
+    summary:
+      - "Software Developer with 3+ years of experience designing and building scalable backend systems, distributed APIs, and cloud-native applications across banking, insurance, and analytics domains. Strong expertise in Node.js, microservices architecture, AWS cloud infrastructure, and database optimization with proven impact in improving system performance, reliability, and automation of enterprise workflows."
+
+    skills:
+      - label: Languages
+        details: JavaScript (ES6+), TypeScript, Python
+
+      - label: Frontend
+        details: React.js, Next.js
+
+      - label: Backend
+        details: Node.js, Express.js, REST APIs
+
+      - label: Databases
+        details: MongoDB, PostgreSQL, MySQL, Redis
+
+      - label: Cloud & DevOps
+        details: AWS (EC2, S3, IAM basics), Docker, CI/CD, Jenkins, Linux Deployment, Nginx
+
+      - label: Tools
+        details: Git, Postman
+
+    experience:
+
+      - company: Alwrite
+        position: Software Developer
+        location: Mumbai, India
+        start_date: 2024-06
+        end_date: 2025-02
+        summary: Insurance platform for multi-domain insurance products and policy workflows
+        highlights:
+          - "Designed and developed scalable MEAN stack for insurance workflow automation and policy lifecycle management"
+          - "Improved API response time significantly using Redis caching, query optimization, and database indexing strategies"
+          - "Led production deployment on AWS EC2 with high availability setup, improving system reliability and uptime"
+
+      - company: Bigiota Analytics
+        position: Software Developer
+        location: Mumbai, India
+        start_date: 2023-07
+        end_date: 2023-10
+        summary: HDFC ERGO digital KYC verification and claims processing system
+        highlights:
+          - "Built secure and scalable REST APIs for KYC verification, claims processing, and document lifecycle management"
+          - "Implemented real-time claim tracking system improving transparency and user experience"
+          - "Automated backend data pipelines using cron-based scheduling (node-cron) reducing manual intervention"
+          - "Developed SFTP-based enterprise data transfer automation for secure inter-system communication"
+
+      - company: Niveus Solutions
+        position: Software Developer
+        location: Mangalore, India
+        start_date: 2022-01
+        end_date: 2023-02
+        summary: ICICI Bank digital onboarding and account opening platform
+        highlights:
+          - "Developed high-scale backend services for digital banking onboarding with focus on performance and security"
+          - "Improved system reliability through unit and integration testing using Jest, Mocha, and Chai"
+          - "Collaborated with cross-functional teams to deliver secure, compliant, and production-grade workflows"
+          - "Containerized applications using Docker enabling consistent deployments across environments"
+
+      - company: EXiTS Group
+        position: Software Developer
+        location: Mumbai, India
+        start_date: 2021-04
+        end_date: 2022-01
+        summary: CRM system and ecommerce platform
+        highlights:
+          - "Designed and developed CRM system for client lifecycle"
+          - "Built REST APIs for food ordering platform with focus on scalability and maintainability"
+          - "Implemented web scraping and automation pipelines using Puppeteer and Cheerio"
+
+    education:
+      - institution: Mumbai University
+        area: Master of Computer Applications (MCA)
+        degree: Postgrad
+        location: Mumbai, India
+        start_date: 2018-07
+        end_date: 2021-05
+      
+      - institution: Mumbai University
+        area: Bachelor of Science in Information Technology (BSc IT)
+        degree: Undergrad
+        location: Mumbai, India
+        start_date: 2015-07
+        end_date: 2018-05
+
+design:
+  theme: classic
+
+locale:
+  language: english
